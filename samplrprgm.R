@@ -6,5 +6,3 @@ recur_factorial <- function(n) {
   }
 }
 
-recur_factorial(5)
-
