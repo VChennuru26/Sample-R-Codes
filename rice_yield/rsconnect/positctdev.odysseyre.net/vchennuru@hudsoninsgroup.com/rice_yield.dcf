@@ -1,0 +1,14 @@
+name: rice_yield
+title: rice_yield
+username: vchennuru@hudsoninsgroup.com
+account: vchennuru@hudsoninsgroup.com
+server: positctdev.odysseyre.net
+hostUrl: https://positctdev.odysseyre.net/__api__
+appId: 26
+bundleId: 52
+url: https://positctdev.odysseyre.net/content/6e81b22d-acde-4b3a-ab04-8b0ef639bab6/
+when: 1690984495.40039
+lastSyncTime: 1690984495.4004
+asMultiple: FALSE
+asStatic: FALSE
+ignoredFiles: train.R

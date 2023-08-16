@@ -1,0 +1,14 @@
+name: crop_ins3
+title:
+username: vchennuru@hudsoninsgroup.com
+account: vchennuru@hudsoninsgroup.com
+server: positctdev.odysseyre.net
+hostUrl: https://positctdev.odysseyre.net/__api__
+appId: 23
+bundleId: 41
+url: https://positctdev.odysseyre.net/content/7eb39096-395a-4b96-abab-623380464a63/
+when: 1690912060.21115
+lastSyncTime: 1690912060.21116
+asMultiple: FALSE
+asStatic: FALSE
+ignoredFiles: clean.R|train.R|visual.R|Data
